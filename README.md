@@ -1,16 +1,1 @@
-# demo_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Weather app which shows us the current weather, weather for the next 3 hours as well as weather for the next 5 days. It also has a dark theme which can be toggled when the user wants.This projects uses API to fetch the current weather location, it uses the packages velocityx and Getx to nake the code less complet and to manage the state easily.we have also taken the user's location from them using the package Geolocation.
